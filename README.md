@@ -1,4 +1,4 @@
 life
 ====
 
-just notes
+just some notes, mostly personal...
